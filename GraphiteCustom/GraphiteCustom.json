@@ -17,9 +17,9 @@
         "tertiary-content": "#e5e5e5",
         "timeline-text-secondary-color": "#b2b2b2",
         "timeline-highlights-color": "#212121",
-        "reaction-row-button-selected-bg-color": "#cc7b19"
+        "reaction-row-button-selected-bg-color": "#cc7b19",
         "timeline-bubble-background-incoming": "#77201b",
         "timeline-bubble-background-outgoing": "#202020",
-        "timeline-bubble-background-selected": "#CE7C87",
+        "timeline-bubble-background-selected": "#CE7C87"
     }
 }
