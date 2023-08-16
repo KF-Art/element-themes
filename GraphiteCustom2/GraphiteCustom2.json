@@ -1,7 +1,7 @@
 {
     "name": "GraphiteCustom2",
     "is_dark": true,
-     "colors": {
+    "colors": {
             "accent-color": "#77201b",
             "primary-color": "#9F8652",
             "warning-color": "#f9c003",
