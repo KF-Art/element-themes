@@ -1,5 +1,5 @@
 {
-	"name": "GraphiteBlackGreen",
+	"name": "GraphiteBlackGreen2",
 	"is_dark": true,
 	"colors": {
 		"accent-color": "#00753D",
@@ -17,8 +17,8 @@
 		"tertiary-content": "#e5e5e5",
 		"timeline-text-secondary-color": "#b2b2b2",
 		"timeline-highlights-color": "#212121",
-		"reaction-row-button-selected-bg-color": "#503989",
-		"eventbubble-self-bg": "#503989",
+		"reaction-row-button-selected-bg-color": "#00753D",
+		"eventbubble-self-bg": "#00753D",
 		"eventbubble-others-bg": "#202020",
 		"eventbubble-selected-bg": "#CE7C87"
 	}
