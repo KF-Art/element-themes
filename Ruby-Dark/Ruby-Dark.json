@@ -1,0 +1,47 @@
+       {
+            "name": "Ruby",
+            "is_dark": true,
+            "colors": {
+                "accent-color": "#e24141",
+                "accent": "#e24141",
+                "primary-color": "#e24141",
+                "warning-color": "#f38ba8",
+                "alert": "#e5c890",
+                "sidebar-color": "#000000",
+                "roomlist-background-color": "#1e1e1e",
+                "roomlist-text-color": "#e8e8e8",
+                "roomlist-text-secondary-color": "#0f0f0f",
+                "roomlist-highlights-color": "#505050",
+                "roomlist-separator-color": "#8d8d8d",
+                "timeline-background-color": "#0f0f0f",
+                "timeline-text-color": "#e8e8e8",
+                "secondary-content": "#e8e8e8",
+                "tertiary-content": "#e8e8e8",
+                "timeline-text-secondary-color": "#c7c7c7",
+                "timeline-highlights-color": "#1e1e1e",
+                "reaction-row-button-selected-bg-color": "#646464",
+                "menu-selected-color": "#505050",
+                "focus-bg-color": "#646464",
+                "room-highlight-color": "#89dceb",
+                "togglesw-off-color": "#a3a3a3",
+                "other-user-pill-bg-color": "#89dceb",
+                "timeline-bubble-background-incoming": "#1e1e1e",
+                "timeline-bubble-background-outgoing": "#0f0f0f",
+                "timeline-bubble-background-selected": "#7E84B1",
+                "username-colors": [
+                    "#cba6f7",
+                    "#eba0ac",
+                    "#fab387",
+                    "#a6e3a1",
+                    "#94e2d5",
+                    "#89dceb",
+                    "#74c7ec",
+                    "#e24141"
+                ],
+                "avatar-background-colors": [
+                    "#89b4fa",
+                    "#cba6f7",
+                    "#a6e3a1"
+                ]
+            }
+        }
